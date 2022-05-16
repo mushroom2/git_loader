@@ -1,0 +1,5 @@
+/.idea
+/res
+/rudata
+*.pyd
+*.pyc

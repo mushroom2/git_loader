@@ -1,0 +1,16 @@
+aiohttp==3.8.1
+aiosignal==1.2.0
+async-timeout==4.0.2
+asynctest==0.13.0
+attrs==21.4.0
+charset-normalizer==2.0.12
+fake-useragent==0.1.11
+frozenlist==1.2.0
+gitdb==4.0.9
+GitPython==3.1.20
+idna==3.3
+idna-ssl==1.1.0
+multidict==5.2.0
+smmap==5.0.0
+typing-extensions==4.1.1
+yarl==1.7.2
